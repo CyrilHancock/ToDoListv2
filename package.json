@@ -4,7 +4,7 @@
   "description": "To-do list made using html css js npm node ejs bootstrap ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Cyril Hancock",
   "license": "ISC",
